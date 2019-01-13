@@ -1,0 +1,79 @@
+<html>
+<head>
+<title>WebSergio</title>
+<link href="css\style.css" rel="stylesheet">
+</head>
+<body>
+<div id="menu" class="row clearfix">
+<a href="#"><header class="clearfix" id="master-header">
+</div></a>
+</header>
+<br/>
+	<!-- Barra de navegacion-->
+	<nav class="menu-top clearfix">
+		<ul>
+			<li class="inicio"><a href="index.html">Inicio</a></li>
+			<li class="acercade"><a href="acercade.html">Acerca De</a></li>
+			<li class="otros"><a href="otros.html">Otros</a></li>
+			<li class="formulario"><a href="formulario.html">Crear Publicaci&oacute;n</a></li>
+		</ul>
+	</nav>
+<div id="contenido4">
+<script>
+function enviar()
+  
+  {
+	if (formulario.nombre.value=="")
+	{alert("Por favor rellene el campo Nombre");}
+	else if (formulario.apellidos.value=="")
+	{alert("Por favor rellene el campo Apellidos");}
+	else if (formulario.usuario.value=="")
+	{alert("Por favor rellene el campo Usuario");}
+	else if (formulario.email.value=="")
+	{alert("Por favor rellene el campo E-mail");}
+	else
+	{formulario.submit();}   
+  }
+
+
+
+</script>
+<form name="formulario" action="mailto:sergiodp@hotmail.com" method="post" enctype="text/plain">
+<fieldset>
+<label>Nombre:</label>
+<input type="text" name="nombre"/><br/><br/>
+<label>Apellidos:</label>
+<input type="text" name="apellidos"/><br/><br/>
+<label>Usuario:</label>
+<input type="text" name="usuario"/><br/><br/>
+<label>E-mail</label>
+<input type="text" name="email"/><br/><br/>
+<label>G&eacute;nero:</label>
+<input type="radio" id="genero" name="genero" value="Hombre"/> Hombre
+<input type="radio" id="genero" name="genero" value="Mujer"/> Mujer
+</fieldset>
+<fieldset>
+<label>Tema de publicaci&oacute;n: </label>
+<input type="text" name="tema"/><br/><br/>
+<label>Contenido de publicaci&oacute;n:</label><br/>
+<textarea rows="4" cols="30"></textarea><br/><br/>
+<label>Desea que el creador de la publicaci&oacute;n aparezca como an&oacute;nimo</label>
+<input type="checkbox" name="anonimo"/>
+<br/>
+</fieldset>
+<br/>
+<input type="button" value="Enviar datos" Onclick="enviar()"> 
+<input type="reset" value="Limpiar">
+			<br/><br/>
+			<h3><a href="#">Volver al arriba &uarr;</a></h3>
+			<br/>
+</div>
+	<footer id="footer">
+		<p>
+			Copyright &copy; 2019 <a href="index.html">WebSergioDP.com</a>
+			|
+			Design by Sergio Delicado Piqueras
+		</p>
+	</footer>
+</body>
+</html>
