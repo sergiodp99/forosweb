@@ -38,7 +38,7 @@ img{
 	width: 18%;
 }
 #contenido2 .img2{
-	positio: absolute;
+	position:absolute;
 	top: 530px;
 	right: 350px;
 	height: 20%;
