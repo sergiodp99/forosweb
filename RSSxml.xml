@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>EL TIEMPO.COM - Opinión</title>
+    <description>Noticias de Opinión en EL TIEMPO</description>
+    <image>
+      <url>https://www.eltiempo.com/bundles/eltiempocms/images/et-rss.png</url>
+      <title>EL TIEMPO.COM - Opinión</title>
+      <link>https://www.eltiempo.com</link>
+    </image>
+    <pubDate>Mon, 17 Jun 2019 00:55:46 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Jun 2019 00:55:46 +0000</lastBuildDate>
+    <generator>Wf Feed Generator (https://www.eltiempo.com)</generator>
+    <link>https://www.eltiempo.com</link>
+    <category>Opinión</category>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.eltiempo.com/rss/opinion.xml"/>
+    <item>
+      <title>Seguimos ‘santrichizados’</title>
+      <pubDate>Sun, 16 Jun 2019 05:50:21 +0000</pubDate>
+      <link>https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/seguimos-santrichizados-el-enemigo-por-dentro-columna-de-maria-isabel-rueda-376244</link>
+      <guid>https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/seguimos-santrichizados-el-enemigo-por-dentro-columna-de-maria-isabel-rueda-376244</guid>
+      <category>Columnistas</category>
+      <description>Lo que más daño le ha hecho hasta ahora al acuerdo de paz ha sido Jesús Santrich.</description>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Saquemos el sistema de salud de la UCI</title>
+      <pubDate>Sun, 16 Jun 2019 05:44:01 +0000</pubDate>
+      <link>https://www.eltiempo.com/opinion/columnistas/fernando-carrillo-florez/saquemos-el-sistema-de-salud-de-la-uci-columna-de-fernando-carrillo-florez-376240</link>
+      <guid>https://www.eltiempo.com/opinion/columnistas/fernando-carrillo-florez/saquemos-el-sistema-de-salud-de-la-uci-columna-de-fernando-carrillo-florez-376240</guid>
+      <category>Columnistas</category>
+      <description>La corrupción, la principal patología de la salud. Acciones de Procuraduría atacan esa metástasis.</description>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Actuar con contundencia</title>
+      <pubDate>Sun, 16 Jun 2019 05:39:58 +0000</pubDate>
+      <link>https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/actuar-con-contundencia-proyectos-del-gobiernos-columna-german-vargas-lleras-376238</link>
+      <guid>https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/actuar-con-contundencia-proyectos-del-gobiernos-columna-german-vargas-lleras-376238</guid>
+      <category>Columnistas</category>
+      <description>Es prioritario acometer el debate sobre régimen de pensiones y la bomba fiscal que esto representa.</description>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Muerte en las vías</title>
+      <pubDate>Sun, 16 Jun 2019 05:38:07 +0000</pubDate>
+      <link>https://www.eltiempo.com/opinion/cartas/muerte-en-las-vias-cartas-del-lector-376322</link>
+      <guid>https://www.eltiempo.com/opinion/cartas/muerte-en-las-vias-cartas-del-lector-376322</guid>
+      <category>Cartas</category>
+      <description>Es grave el registro de ciclistas y motociclistas muertos y accidentados en las vías de Colombia.</description>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Llega con la lluvia</title>
+      <pubDate>Sun, 16 Jun 2019 05:31:44 +0000</pubDate>
+      <link>https://www.eltiempo.com/opinion/caricaturas/jota/llega-con-la-lluvia-caricatura-de-jota-376318</link>
+      <guid>https://www.eltiempo.com/opinion/caricaturas/jota/llega-con-la-lluvia-caricatura-de-jota-376318</guid>
+      <enclosure type="image/jpeg" length="276216" url="https://www.eltiempo.com/files/article_graphic/uploads/2019/06/16/5d05d42b726cf.jpeg"/>
+      <category>Caricaturas</category>
+      <description/>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>La risa, remedio infalible</title>
+      <pubDate>Sun, 16 Jun 2019 05:30:37 +0000</pubDate>
+      <link>https://www.eltiempo.com/opinion/caricaturas/matador/la-risa-remedio-infalible-caricatura-de-matador-376316</link>
+      <guid>https://www.eltiempo.com/opinion/caricaturas/matador/la-risa-remedio-infalible-caricatura-de-matador-376316</guid>
+      <enclosure type="image/jpeg" length="237774" url="https://www.eltiempo.com/files/article_graphic/uploads/2019/06/16/5d05d3ed4a526.jpeg"/>
+      <category>Caricaturas</category>
+      <description/>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Día del Padre</title>
+      <pubDate>Sun, 16 Jun 2019 05:29:35 +0000</pubDate>
+      <link>https://www.eltiempo.com/opinion/caricaturas/matador/dia-del-padre-caricatura-de-matador-376314</link>
+      <guid>https://www.eltiempo.com/opinion/caricaturas/matador/dia-del-padre-caricatura-de-matador-376314</guid>
+      <enclosure type="image/jpeg" length="285939" url="https://www.eltiempo.com/files/article_graphic/uploads/2019/06/16/5d05d3b0bd63c.jpeg"/>
+      <category>Caricaturas</category>
+      <description/>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Riesgo de garrote</title>
+      <pubDate>Sun, 16 Jun 2019 04:45:50 +0000</pubDate>
+      <link>https://www.eltiempo.com/opinion/editorial/riesgo-de-garrote-editorial-el-tiempo-376234</link>
+      <guid>https://www.eltiempo.com/opinion/editorial/riesgo-de-garrote-editorial-el-tiempo-376234</guid>
+      <category>Editorial</category>
+      <description>Colombia debe prepararse para jugar en el nuevo tablero que plantea Trump.</description>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Mirar hacia adelante</title>
+      <pubDate>Sun, 16 Jun 2019 04:44:11 +0000</pubDate>
+      <link>https://www.eltiempo.com/opinion/columnistas/guillermo-perry/mirar-hacia-adelante-marco-fiscal-columna-de-guillermo-perry-376248</link>
+      <guid>https://www.eltiempo.com/opinion/columnistas/guillermo-perry/mirar-hacia-adelante-marco-fiscal-columna-de-guillermo-perry-376248</guid>
+      <category>Columnistas</category>
+      <description>El Marco Fiscal de Mediano Plazo es una apuesta muy arriesgada.</description>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>La hora del ajuste</title>
+      <pubDate>Sun, 16 Jun 2019 04:41:05 +0000</pubDate>
+      <link>https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/la-hora-del-ajuste-tiro-directo-columna-de-mauricio-vargas-376252</link>
+      <guid>https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/la-hora-del-ajuste-tiro-directo-columna-de-mauricio-vargas-376252</guid>
+      <category>Columnistas</category>
+      <description>Resultados hay pocos o el mindefensa falla al comunicar los que hay, o ambas cosas.</description>
+      <slash:comments>0</slash:comments>
+    </item>
+  </channel>
+</rss>
